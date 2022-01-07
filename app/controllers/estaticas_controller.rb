@@ -8,3 +8,4 @@ class EstaticasController < ApplicationController
   def administrador
   end
 end
+

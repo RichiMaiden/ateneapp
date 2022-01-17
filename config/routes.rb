@@ -1,7 +1,6 @@
 Rails.application.routes.draw do
-  get 'estaticas/alumno'
-  get 'estaticas/docente'
-  get 'estaticas/administrador'
+  get 'estaticas/contacto'
+  get 'estaticas/nosotros'
   get 'home/index'
   root 'home#index'
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html

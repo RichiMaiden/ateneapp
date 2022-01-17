@@ -1,11 +1,7 @@
 class EstaticasController < ApplicationController
-  def alumno
+  def contacto
   end
 
-  def docente
-  end
-
-  def administrador
+  def nosotros
   end
 end
-
